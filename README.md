@@ -4,10 +4,10 @@ Ce projet consiste à documenter les outils et/ou projets mis en place au sein d
 
 ## Outils ##
 
-- Le version du code avec [Git](git/commandes-principales.md)
-- L'outil de développement [Gulp](gulp/intro.md)
+- Le version du code avec [Git](git/index.md)
+- L'outil de développement [Gulp](gulp/index.md)
 - Gestion des packages PHP avec [Composer](composer/index.md)
-- Gestion des packages Javascript avec [Bower](bower/intro.md)
+- Gestion des packages Javascript avec [Bower](bower/index.md)
 
 
 ## Projets ##
