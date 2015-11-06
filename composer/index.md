@@ -1,6 +1,6 @@
 # PHP Composer
 
-![composer](https://getcomposer.org/img/logo-composer-transparent4.png)
+![composer](https://getcomposer.org/img/logo-composer-transparent.png)
 
 ## Qu'est-ce que PHP Composer
 
@@ -12,7 +12,7 @@ C'est à ce moment là où le composer entre en jeu. Composer est un gestionnair
 
 Ce type de gestion des dépendances dans un projet ne sont pas un nouveau concept, et, en fait, une grande partie de Composer est en fait inspiré de la NPM de Node.js et Bundler de Ruby.
 
-Vous pourriez également utiliser PEAR. PEAR est un gestionnaire de paquets PHP établie qui gravite autour de PHP depuis des années. Cependant, PEAR a été abandonnée par de nombreux développeurs PHP pour un certain nombre de raisons. Tout d'abord, une grande partie du code dans PEAR n'est pas à jour. Deuxièmement, PEAR vous oblige à installer le système de paquets, plutôt que sur une base de projet. Cela signifie que si vous avez déjà un projet qui repose sur un ensemble un peu plus âgés, vous êtes foutu. 
+Vous pourriez également utiliser PEAR. PEAR est un gestionnaire de paquets PHP établie qui gravite autour de PHP depuis des années. Cependant, PEAR a été abandonnée par de nombreux développeurs PHP pour un certain nombre de raisons. Tout d'abord, une grande partie du code dans PEAR n'est pas à jour. Deuxièmement, PEAR vous oblige à installer le système de paquets, plutôt que sur une base de projet. Cela signifie que si vous avez déjà un projet qui repose sur un ensemble un peu plus âgés, vous êtes foutu.
 
 ## Installation de Composer
 
@@ -25,7 +25,7 @@ $ > curl -s https://getcomposer.org/installer | php
 $ > sudo mv composer.phar /usr/local/bin/composer
 ```
 
-La première commande télécharge le fichier composer.phar sur votre ordinateur. La seconde déplace le ficher composer.phar dans le dossier *bin* qui est accessible de façon globale sur le poste. 
+La première commande télécharge le fichier composer.phar sur votre ordinateur. La seconde déplace le ficher composer.phar dans le dossier *bin* qui est accessible de façon globale sur le poste.
 
 
 Maintenant, lancez la commande suivante:
@@ -79,15 +79,15 @@ Par exemple:
 ```php
 // Autoload
 require 'vendor/autoload.php';
- 
+
 // Instantiate a Slim application
 $app = new \Slim\Slim();
- 
+
 // Define a HTTP GET route
 $app->get('/hello/:name', function ($name) {
     echo "Hello, $name";
 });
- 
+
 // Run the Slim application
 $app->run();
 
