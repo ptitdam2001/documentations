@@ -13,7 +13,7 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 
 ## Mode d'emploi
 
-- Télécharger le fichier installation.zip ([en cliquant ici](raw/master/poste/script/installation.zip))
+- Télécharger le fichier installation.zip ([en cliquant ici](https://github.com/CareLabsSAS/documentation-interne/raw/master/poste/script/installation.zip))
 - Décompresser le fichier
 - Ouvrir un terminal
 - aller sur le path du fichier (probablement avec la commande "cd Downloads")
