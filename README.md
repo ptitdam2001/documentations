@@ -4,6 +4,9 @@
 
 Ce projet consiste à documenter les outils et/ou projets mis en place au sein de l'équipe technique de Care labs
 
+## Poste de travail
+- Installation d'un poste de développement [A lire](poste/installation.md)
+
 ## Outils ##
 
 - Le version du code avec [Git](git/index.md)
