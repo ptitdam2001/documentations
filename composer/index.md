@@ -2,6 +2,10 @@
 
 ![composer](https://getcomposer.org/img/logo-composer-transparent.png)
 
+Dans cet article, vous allez voir la définition et l'installation de Composer. 
+
+Vous pouvez également lire [cet article](composer/utiliser-composer.md), pour l'utiliser concrêtement dans un projet PHP.
+
 ## Qu'est-ce que PHP Composer
 
 Si vous avez déjà écrit en PHP avant, vous avez probablement constaté qu'on a le sentiment de souvent réinventer la roue pour des tâches communes telles que l'authentification des utilisateurs, la gestion de base de données ou de la demande de routage. PHP dispose de frameworks matures qui ont déjà résolu tous ces problèmes, donc ça ne serait pas plus facile de récupérer des éléments de code dont nous avons besoin dans chaque framework?
