@@ -1,11 +1,11 @@
-![](http://doc.chequesante.com/assets/img/logo.png)
 
-# Documentation Interne Care labs
 
-Ce projet consiste à documenter les outils et/ou projets mis en place au sein de l'équipe technique de Care labs
+# Documentations techniques
+
+Ce projet consiste à documenter des outils et/ou framework de développement
 
 ## Poste de travail
-- Installation d'un poste de développement [A lire](poste/installation.md)
+- Installation d'un poste de développement MAC OS [A lire](poste/installation.md)
 
 ## Outils ##
 
@@ -20,8 +20,3 @@ Ce projet consiste à documenter les outils et/ou projets mis en place au sein d
 - Les règles d'or du design [A lire](ux/golden-rules-of-design.md)
 - Définition et différence entre le responsive design et l'adaptative design [A lire](ux/responsive-vs-adaptative-design.md)
 
-
-## Projets ##
-
-- Site Web Chèque Sante : [Documentation](https://github.com/CareLabsSAS/chequesante)
-- Annuaire : [Documentation](https://github.com/CareLabsSAS/annuaire)
